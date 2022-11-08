@@ -1,0 +1,32 @@
+{
+  "name": "git_testing",
+  "version": "1.0.0",
+  "description": "It is a want to master front end course",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"error: no test specified\" && exit 1",
+    "lite": "lite-server"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raviakshay/gitting.git"
+  },
+  "keywords": [
+    "front-end",
+    "react",
+    "live-server",
+    "git",
+    "node"
+  ],
+  "author": "Johnny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raviakshay/gitting/issues"
+  },
+  "homepage": "https://github.com/raviakshay/gitting#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
